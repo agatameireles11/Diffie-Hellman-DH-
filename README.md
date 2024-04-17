@@ -7,7 +7,9 @@ Exercício Disciplina DCC075
 *p -> número primo*
 *g -> raíz primitiva módulo p*
 
-*Dado um valor p (primo grande!), a raíz primitiva pode ser encontrada até pelo site (exemplo de p=23) https://www.wolframalpha.com/input?i=primitiveroot+23*
+*Dado um valor p (primo grande!), a raíz primitiva pode ser encontrada até pelo site (exemplo de p=23)* 
+
+*https://www.wolframalpha.com/input?i=primitiveroot+23*
 
 *https://pt.wikipedia.org/wiki/Raiz_primitiva_m%C3%B3dulo_n*
 
