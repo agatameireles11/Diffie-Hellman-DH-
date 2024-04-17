@@ -16,14 +16,6 @@ public class DiffieHellman {
     private static final BigInteger ONE = BigInteger.ONE;
     private static final SecureRandom random = new SecureRandom();
 
-    // Função para gerar um número aleatório entre 2 e (p-1)
-    private static BigInteger generateRandomNumber(BigInteger p) {
-        BigInteger num;
-        do {
-            num = new BigInteger(p.bitLength(), random);
-        } while (num.compareTo(ONE) <= 0 || num.compareTo(p.subtract(ONE)) >= 0);
-        return num;
-    }
 
     public static void main(String[] args) {
 
