@@ -12,11 +12,7 @@ import java.util.Scanner;
  * @author agata
  */
 public class DiffieHellman {
-
-    private static final BigInteger ONE = BigInteger.ONE;
-    private static final SecureRandom random = new SecureRandom();
-
-
+    
     public static void main(String[] args) {
 
         BigInteger p, g, a, b, keyA, keyB, sharedKeyA, sharedKeyB;
