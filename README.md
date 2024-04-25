@@ -19,4 +19,6 @@ p = 101333,  g = 2, a = 254, b = 555;
 
 Valores se encontram no código, mas também o teste pode ser feito via leitura de teclado.
 
+O restante dos valores são impressos ao executar o código.
+
 Classe principal: src/main/java/com/mycompany/diffiehellman
